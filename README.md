@@ -1,5 +1,5 @@
 <p align="center"><img src="explanations/req0.png" height="600" width="800"></p>
-<p align="center"><img src="explanations/req.png" height="600" width="700"></p>
+<p align="center"><img src="explanations/req.png" height="600" width="800"></p>
 <p align="center"><img src="explanations/mat.png" height="400" width="500"></p>
 <p align="center"><img src="explanations/mat2.png" height="400" width="500"></p>
 <br/>
