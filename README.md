@@ -5,7 +5,7 @@
 <br/>
 
 -------------------------------------------------------------------------------------------------------------------
-<p align="center"><img src="explanations/r_final.png" height="500" width="900"></p>
+
 <br/>
 <p align="center"><img src="explanations/r1.png" height="1000" width="1000"></p>
 <br/>
@@ -17,5 +17,6 @@
 <br/>
 <p align="center"><img src="explanations/r5.png" height="1000" width="1000"></p>
 <br/>
-<p align="center"><img src="explanations/r6.png" height="1000" width="1000"></p>
+<p align="center"><img src="explanations/r7.png" height="1000" width="1000"></p>
 <br/>
+<p align="center"><img src="explanations/r_final.png" height="500" width="900"></p>
