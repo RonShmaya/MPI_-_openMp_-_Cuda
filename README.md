@@ -1,4 +1,4 @@
-<p align="center"><img src="explanations/req.png" height="600" width="600"></p>
+<p align="center"><img src="explanations/req.png" height="600" width="700"></p>
 <br/>
 <p align="center"><img src="explanations/mat.png" height="500" width="600"></p>
 <br/>
