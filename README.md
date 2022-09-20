@@ -9,7 +9,7 @@
 <br/>
 <p align="center"><img src="explanations/r1.png" height="1000" width="1000"></p>
 <br/>
-<p align="center"><img src="explanations/r2.png" height="1000" width="1000"></p>
+<p align="center"><img src="explanations/r2.png" height="500" width="500"></p>
 <br/>
 <p align="center"><img src="explanations/r3.png" height="1000" width="1000"></p>
 <br/>
