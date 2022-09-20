@@ -2,8 +2,9 @@
 <p align="center"><img src="explanations/mat.png" height="400" width="500"></p>
 <p align="center"><img src="explanations/mat2.png" height="400" width="500"></p>
 <br/>
+
 -------------------------------------------------------------------------------------------------------------------
-<p align="center"><img src="explanations/r_final.png" height="500" width="1000"></p>
+<p align="center"><img src="explanations/r_final.png" height="500" width="900"></p>
 <br/>
 <p align="center"><img src="explanations/r1.png" height="1000" width="1000"></p>
 <br/>
